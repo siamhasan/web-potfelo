@@ -1,0 +1,23 @@
+h1{
+    font-size: 80px;
+}
+body{
+    ont-family: 'Anton', sans-serif;
+font-family: 'Gwendolyn', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Tiro Telugu', serif;
+}
+.box{
+    color: chartreuse;
+}
+.man{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.man img{
+    width: 100%;
+}
