@@ -1,7 +1,8 @@
 h1{
-    font-size: 80px;
+    font-size: 60px;
 }
 body{
+    margin: 0%;
     ont-family: 'Anton', sans-serif;
 font-family: 'Gwendolyn', cursive;
 font-family: 'Libre Baskerville', serif;
@@ -12,7 +13,7 @@ font-family: 'Tiro Telugu', serif;
 .box{
     color: chartreuse;
 }
-.man{
+.man {
     width: 40%;
     float: left;
     margin-left: 5%;
@@ -20,4 +21,76 @@ font-family: 'Tiro Telugu', serif;
 }
 .man img{
     width: 100%;
+}
+.bom{
+    background-repeat: no-repeat;
+    background-image: url(picture/xa/top-banner.png);
+    
+
+}
+section{
+    height:500px ;
+}
+.link{
+    text-decoration: none;
+    background-color: yellowgreen;
+    background-image: linear-gradient(tomato) ;
+    padding: 10px 20px;;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+
+}
+.l{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.m{
+    width: 100%;
+}
+.l{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h2{
+    font-size: 60px;
+    font-family:  'Anton', sans-serif;
+    font-family: 'Gwendolyn', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Tiro Telugu', serif;
+    color:red;
+}
+h3{
+    font-size: 80px;
+}
+.mon{
+    font-size: 40px;
+    font-family:font-family: 'Anton', sans-serif;
+    font-family: 'Gwendolyn', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Tiro Telugu', serif; ;
+}
+.bol{
+    padding-bottom: 150px;
+}
+.bol{
+    background-image: url(picture/xa/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+ 
+}
+.full{
+    box-shadow: 50px 50px 80px grey;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
 }
